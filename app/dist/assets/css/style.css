@@ -1,0 +1,23 @@
+body {
+  background-color: #2e2e2e;
+}
+
+.hero .is-fullheight {
+  background-image: url(../../../img/ben.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.navbar {
+  background-color: #2e2e2e;
+}
+
+.gameline1 {
+  margin-top: 50px;
+}
+
+.gameline2 {
+  margin-top: 50px;
+  padding-bottom: 50px;
+}
