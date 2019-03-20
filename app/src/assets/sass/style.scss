@@ -1,0 +1,22 @@
+$couleur-dominante : #2e2e2e;
+
+body{
+  background-color: $couleur-dominante;
+}
+.is-fullheight{
+  background-image: url(../../../img/ben.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.navbar{
+  background-color: $couleur-dominante;
+}
+.gameline1{
+  margin-top: 50px;
+}
+
+.gameline2{
+  margin-top: 50px;
+  padding-bottom: 50px;
+}
